@@ -38,8 +38,8 @@ This repository aims to provide a clear understanding of **Data Structures** and
 
 ## 📂 Repository Structure
 ```
-heuristic-algorithms/
-│── algorithms/
+data-structures-algorithms/
+│── data-structures/
 │   │── stack.py
 │── examples/
 │   │── two_sum.py
